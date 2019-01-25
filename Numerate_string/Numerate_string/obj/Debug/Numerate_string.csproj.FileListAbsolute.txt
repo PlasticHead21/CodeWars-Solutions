@@ -1,0 +1,7 @@
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Numerate_string\Numerate_string\bin\Debug\Numerate_string.exe.config
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Numerate_string\Numerate_string\bin\Debug\Numerate_string.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Numerate_string\Numerate_string\bin\Debug\Numerate_string.pdb
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Numerate_string\Numerate_string\obj\Debug\Numerate_string.csprojAssemblyReference.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Numerate_string\Numerate_string\obj\Debug\Numerate_string.csproj.CoreCompileInputs.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Numerate_string\Numerate_string\obj\Debug\Numerate_string.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Numerate_string\Numerate_string\obj\Debug\Numerate_string.pdb

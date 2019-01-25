@@ -1,0 +1,7 @@
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\AreTheySame\AreTheySame\bin\Debug\AreTheySame.exe.config
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\AreTheySame\AreTheySame\bin\Debug\AreTheySame.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\AreTheySame\AreTheySame\bin\Debug\AreTheySame.pdb
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\AreTheySame\AreTheySame\obj\Debug\AreTheySame.csprojAssemblyReference.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\AreTheySame\AreTheySame\obj\Debug\AreTheySame.csproj.CoreCompileInputs.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\AreTheySame\AreTheySame\obj\Debug\AreTheySame.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\AreTheySame\AreTheySame\obj\Debug\AreTheySame.pdb

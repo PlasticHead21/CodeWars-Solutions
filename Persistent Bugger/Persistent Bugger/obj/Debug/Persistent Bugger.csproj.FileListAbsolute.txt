@@ -1,0 +1,7 @@
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Persistent Bugger\Persistent Bugger\bin\Debug\Persistent Bugger.exe.config
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Persistent Bugger\Persistent Bugger\bin\Debug\Persistent Bugger.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Persistent Bugger\Persistent Bugger\bin\Debug\Persistent Bugger.pdb
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Persistent Bugger\Persistent Bugger\obj\Debug\Persistent Bugger.csprojAssemblyReference.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Persistent Bugger\Persistent Bugger\obj\Debug\Persistent Bugger.csproj.CoreCompileInputs.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Persistent Bugger\Persistent Bugger\obj\Debug\Persistent Bugger.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Persistent Bugger\Persistent Bugger\obj\Debug\Persistent Bugger.pdb

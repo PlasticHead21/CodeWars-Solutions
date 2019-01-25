@@ -1,0 +1,7 @@
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Unique_In_Order\Unique_In_Order\bin\Debug\Unique_In_Order.exe.config
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Unique_In_Order\Unique_In_Order\bin\Debug\Unique_In_Order.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Unique_In_Order\Unique_In_Order\bin\Debug\Unique_In_Order.pdb
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Unique_In_Order\Unique_In_Order\obj\Debug\Unique_In_Order.csprojAssemblyReference.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Unique_In_Order\Unique_In_Order\obj\Debug\Unique_In_Order.csproj.CoreCompileInputs.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Unique_In_Order\Unique_In_Order\obj\Debug\Unique_In_Order.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Unique_In_Order\Unique_In_Order\obj\Debug\Unique_In_Order.pdb

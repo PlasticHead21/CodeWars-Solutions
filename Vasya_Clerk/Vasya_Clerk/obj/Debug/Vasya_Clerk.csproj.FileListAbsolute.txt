@@ -1,0 +1,7 @@
+C:\Users\ilyam\source\repos\Vasya_Clerk\Vasya_Clerk\bin\Debug\Vasya_Clerk.exe.config
+C:\Users\ilyam\source\repos\Vasya_Clerk\Vasya_Clerk\bin\Debug\Vasya_Clerk.exe
+C:\Users\ilyam\source\repos\Vasya_Clerk\Vasya_Clerk\bin\Debug\Vasya_Clerk.pdb
+C:\Users\ilyam\source\repos\Vasya_Clerk\Vasya_Clerk\obj\Debug\Vasya_Clerk.csprojAssemblyReference.cache
+C:\Users\ilyam\source\repos\Vasya_Clerk\Vasya_Clerk\obj\Debug\Vasya_Clerk.csproj.CoreCompileInputs.cache
+C:\Users\ilyam\source\repos\Vasya_Clerk\Vasya_Clerk\obj\Debug\Vasya_Clerk.exe
+C:\Users\ilyam\source\repos\Vasya_Clerk\Vasya_Clerk\obj\Debug\Vasya_Clerk.pdb
