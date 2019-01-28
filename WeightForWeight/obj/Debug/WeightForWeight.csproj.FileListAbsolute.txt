@@ -5,3 +5,9 @@ D:\Проекты\CodeWarsSolutions\WeightForWeight\obj\Debug\WeightForWeight.cs
 D:\Проекты\CodeWarsSolutions\WeightForWeight\obj\Debug\WeightForWeight.csproj.CoreCompileInputs.cache
 D:\Проекты\CodeWarsSolutions\WeightForWeight\obj\Debug\WeightForWeight.exe
 D:\Проекты\CodeWarsSolutions\WeightForWeight\obj\Debug\WeightForWeight.pdb
+C:\CodeWars-Solutions\WeightForWeight\bin\Debug\WeightForWeight.exe.config
+C:\CodeWars-Solutions\WeightForWeight\obj\Debug\WeightForWeight.exe
+C:\CodeWars-Solutions\WeightForWeight\obj\Debug\WeightForWeight.pdb
+C:\CodeWars-Solutions\WeightForWeight\bin\Debug\WeightForWeight.exe
+C:\CodeWars-Solutions\WeightForWeight\bin\Debug\WeightForWeight.pdb
+C:\CodeWars-Solutions\WeightForWeight\obj\Debug\WeightForWeight.csprojResolveAssemblyReference.cache
