@@ -31,7 +31,7 @@ A comma-separated string representing all the things at the zoo
 ### TASK
 Figure out who eats who until no more eating is possible.
 
-###OUTPUT
+### OUTPUT
 A list of strings (refer to the example below) where:
 
 * The first element is the initial zoo (same as INPUT)
