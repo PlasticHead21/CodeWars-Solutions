@@ -38,7 +38,7 @@ A list of strings (refer to the example below) where:
 * The last element is a comma-separated string of what the zoo looks like when all the eating has finished
 * All other elements (2nd to last-1) are of the form X eats Y describing what happened
 ### Notes
-*Animals can only eat things beside them
+* Animals can only eat things beside them
 
 * Animals always eat to their LEFT before eating to their RIGHT
 
