@@ -12,7 +12,7 @@ namespace SimpleFractionToMixedNumberConverter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Kata.MixedFraction("1/1"));
+            Console.WriteLine(Kata.MixedFraction("5/1"));
         }
     }
 
@@ -31,13 +31,15 @@ namespace SimpleFractionToMixedNumberConverter
 
             if (numerator == 0) return "0";
 
+            else if (denominator == 1) return $@"{numerator}";
+
             if (numerator < 0 & denominator < 0)
             {
                 numerator *= (-1);
                 denominator *= (-1);
             }
 
-            if (numerator < 0 )
+            else if (numerator < 0 )
             {
                 numerator *= (-1);
                 result += "-";
