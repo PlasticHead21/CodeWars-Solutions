@@ -12,7 +12,7 @@ namespace SimpleFractionToMixedNumberConverter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Kata.MixedFraction("5/1"));
+            Console.WriteLine(Kata.MixedFraction("5/0"));
         }
     }
 
@@ -20,107 +20,58 @@ namespace SimpleFractionToMixedNumberConverter
     {
         public static string MixedFraction(string s)
         {
-            int numerator, denominator, wholePart;
-            string result = "";
-            if (!SecurityCheck(s)) return s;
-            var digits = ParsingDigits(s).ToArray();
-            numerator = digits[0];
-            denominator = digits[1];
+            int x = int.Parse(s.Split('/')[0]);
+            int y = int.Parse(s.Split('/')[1]);
+            Console.WriteLine(s);
 
-            if (numerator == denominator) return "1"; 
-
-            if (numerator == 0) return "0";
-
-            else if (denominator == 1) return $@"{numerator}";
-
-            if (numerator < 0 & denominator < 0)
+            if (y == 0 && x == 0)
             {
-                numerator *= (-1);
-                denominator *= (-1);
-            }
-
-            else if (numerator < 0 )
-            {
-                numerator *= (-1);
-                result += "-";
-            }
-
-            if (Gcd(numerator, denominator) == 1)
-            {
-                wholePart = numerator / denominator;
-                numerator -= wholePart * denominator;
-                if(wholePart == 0) return result += $"{numerator}/{denominator}";
-
-                if (wholePart == 1 && numerator == 1 && denominator == 1)
+                try
                 {
-                    result += $"{wholePart}";
+                    int p = x / y;
                 }
-
-                else
+                catch (DivideByZeroException ex)
                 {
-                    return result += $"{wholePart} {numerator}/{denominator}";
+                    throw new System.DivideByZeroException();
                 }
-                
             }
 
-            else if (Gcd(numerator, denominator) != 1 & numerator < denominator)
+            if (x == 0)
             {
-                int gcd = Gcd(numerator, denominator);
-                numerator /= gcd;
-                denominator /= gcd;
-                return denominator == 1 ? result += $"{numerator}" : result += $"{numerator}/{denominator}";
+                return "0";
             }
 
-            else if (Gcd(numerator, denominator) != 1 & numerator > denominator)
+            int wholePart = x % y;
+            int ceo = (x - wholePart) / y;
+            int denominator = GreatestCommonDenominator(x, y);
+
+            if (Math.Abs(wholePart / denominator) < 1)
             {
-                int gcd = Gcd(numerator, denominator);
-                numerator /= gcd;
-                denominator /= gcd;
-                if (denominator == 1)
+                return ceo.ToString();
+            }
+
+            if (Math.Abs(ceo) < 1)
+            {
+                string znak = "";
+                if (x < 0 && y < 0)
                 {
-                    wholePart = numerator;
 
                 }
-                else
+                else if (x < 0 || y < 0)
                 {
-                    wholePart = numerator / denominator;
-                    numerator -= wholePart * denominator;
+                    znak = "-";
                 }
-                
-                return denominator == 1 ? result += $"{wholePart}" : result += $"{wholePart} {numerator}/{denominator}";
+
+                return string.Format("{0}{1}/{2}", znak, Math.Abs(wholePart / denominator),
+                    Math.Abs(y / denominator));
             }
 
-            return "0";           
+            return string.Format("{0} {1}/{2}", ceo, Math.Abs(wholePart / denominator), Math.Abs(y / denominator));
         }
 
-        private static IEnumerable<int> ParsingDigits(string s)
+        public static int GreatestCommonDenominator(int x, int y)
         {
-            int[] digits = s.Split(new char[] { '/' }).Select(Int32.Parse).ToArray();
-            return digits;
-        }
-
-        private static int Gcd(int a, int b)
-        {
-            while (a != b)
-            {
-                if (a > b)
-                {
-                    int tmp = a;
-                    a = b;
-                    b = tmp;
-                }
-                b = b - a;
-            }
-            return a;
-        }
-
-        private static bool SecurityCheck(string s)
-        {
-            if (String.IsNullOrEmpty(s)) return false;
-            var arr = ParsingDigits(s).ToArray();           
-            if (s == "0/0") throw new DivideByZeroException();
-            if (arr[1] == 0) throw new DivideByZeroException();
-            else return true;
+            return y == 0 ? x : GreatestCommonDenominator(y, x % y);
         }
     }
 }
