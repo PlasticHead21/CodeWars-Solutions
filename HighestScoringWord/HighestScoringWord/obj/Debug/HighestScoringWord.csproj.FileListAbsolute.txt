@@ -1,7 +1,0 @@
-D:\Программирование\Visual Studio Projects\CodeWars Solutions\HighestScoringWord\HighestScoringWord\bin\Debug\HighestScoringWord.exe.config
-D:\Программирование\Visual Studio Projects\CodeWars Solutions\HighestScoringWord\HighestScoringWord\bin\Debug\HighestScoringWord.exe
-D:\Программирование\Visual Studio Projects\CodeWars Solutions\HighestScoringWord\HighestScoringWord\bin\Debug\HighestScoringWord.pdb
-D:\Программирование\Visual Studio Projects\CodeWars Solutions\HighestScoringWord\HighestScoringWord\obj\Debug\HighestScoringWord.csprojAssemblyReference.cache
-D:\Программирование\Visual Studio Projects\CodeWars Solutions\HighestScoringWord\HighestScoringWord\obj\Debug\HighestScoringWord.csproj.CoreCompileInputs.cache
-D:\Программирование\Visual Studio Projects\CodeWars Solutions\HighestScoringWord\HighestScoringWord\obj\Debug\HighestScoringWord.exe
-D:\Программирование\Visual Studio Projects\CodeWars Solutions\HighestScoringWord\HighestScoringWord\obj\Debug\HighestScoringWord.pdb
