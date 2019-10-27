@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HungerGames
 {
-    class Program
+    class HungryGames
     {
         static void Main(string[] args)
         {
