@@ -8,22 +8,9 @@ namespace FromInt32ToIPv4
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Kata.UInt32ToIP(2154959208);
-            Kata.UInt32ToIPLinq(2149583361);
-        }   
-    }
-
-    public static class Kata
-    {
-        public static string UInt32ToIP(uint ip)
-        {
-            byte[] binary = BitConverter.GetBytes(ip);            
-            return String.Join(".", binary.Reverse());
+            Console.WriteLine(IntToIPv4Converter.UInt32ToIPLinq(123453245));
         }
-
-        public static string UInt32ToIPLinq(uint ip)
-          => string.Join(".", (new int[] { 24, 16, 8, 0 }).Select(e => ip >> e & 255));
     }
 }
