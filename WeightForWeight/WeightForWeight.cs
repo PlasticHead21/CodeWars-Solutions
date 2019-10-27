@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WeightForWeight
 {
-    class Program
+    class WeightForWeight
     {
         static void Main(string[] args)
         {
