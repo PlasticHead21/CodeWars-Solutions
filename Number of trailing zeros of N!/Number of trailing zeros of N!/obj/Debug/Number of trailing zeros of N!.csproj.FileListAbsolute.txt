@@ -1,7 +1,0 @@
-C:\Users\ilyam\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\bin\Debug\Number of trailing zeros of N!.exe.config
-C:\Users\ilyam\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\bin\Debug\Number of trailing zeros of N!.exe
-C:\Users\ilyam\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\bin\Debug\Number of trailing zeros of N!.pdb
-C:\Users\ilyam\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\obj\Debug\Number of trailing zeros of N!.csprojAssemblyReference.cache
-C:\Users\ilyam\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\obj\Debug\Number of trailing zeros of N!.csproj.CoreCompileInputs.cache
-C:\Users\ilyam\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\obj\Debug\Number of trailing zeros of N!.exe
-C:\Users\ilyam\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\obj\Debug\Number of trailing zeros of N!.pdb
