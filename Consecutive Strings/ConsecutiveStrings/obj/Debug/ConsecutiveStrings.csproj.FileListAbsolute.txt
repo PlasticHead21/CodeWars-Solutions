@@ -1,0 +1,22 @@
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.exe.config
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.pdb
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.csprojAssemblyReference.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.csproj.CoreCompileInputs.cache
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.exe
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.pdb
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\nunit.framework.dll
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\nunit.framework.pdb
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\nunit.framework.xml
+D:\Программирование\Visual Studio Projects\CodeWars Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.csproj.CopyComplete
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.exe.config
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.exe
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\ConsecutiveStrings.pdb
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\nunit.framework.dll
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\nunit.framework.pdb
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\bin\Debug\nunit.framework.xml
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.csprojAssemblyReference.cache
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.csproj.CoreCompileInputs.cache
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.csproj.CopyComplete
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.exe
+D:\CodeWars-Solutions\Consecutive Strings\ConsecutiveStrings\obj\Debug\ConsecutiveStrings.pdb
